@@ -36,13 +36,24 @@ O objetivo é compreender o comportamento dos usuários, analisar o desempenho d
 - Identificação de oportunidades de otimização dos investimentos.
 
 ## 📈 Principais Resultados
-- Foram analisadas 359.400 sessões no período;
-- O Sticky Factor foi de aproximadamente 3,94% no desktop e 3,69% no touch;
-- Foram identificadas 35.794 sessões com duração de 0 segundos, representando aproximadamente 10% dos dados;
-- A mediana foi considerada mais adequada para representar a duração das sessões devido à assimetria da distribuição;
-- As origens 4, 5 e 9 apresentaram oportunidades relevantes para investimentos em marketing;
-- A origem 5 apresentou o maior ROI, enquanto a origem 3 apresentou o pior desempenho;
-- A origem 9 apresentou potencial de expansão devido ao baixo CAC e ao investimento relativamente reduzido.
+
+📱 Produto
+- Média de 987 sessões por dia.
+- Cerca de 10% das sessões apresentaram duração de 0 segundos.
+- A duração mediana das sessões foi de 360 segundos.
+- O Sticky Factor foi de 3,94% no desktop e 3,69% no touch, indicando baixa frequência de retorno diário.
+
+💰 Vendas
+- O LTV foi analisado por coorte para avaliar o valor gerado pelos clientes ao longo do tempo.
+- Foi identificada uma variação atípica na coorte 2017-09, que foi investigada individualmente.
+- A análise permitiu comparar o comportamento de compra e a receita gerada pelas diferentes coortes.
+
+📣 Marketing
+- As origens 4, 5 e 9 apresentaram os melhores potenciais de investimento.
+- A origem 5 apresentou o maior ROI.
+- A origem 4 combinou alto volume de clientes, LTV elevado e CAC baixo.
+- A origem 9 apresentou baixo CAC e bom ROI, indicando potencial de expansão.
+- A origem 3 apresentou o maior gasto e o pior ROI, indicando necessidade de reavaliar o investimento.
   
 ## 💡 Conclusão
 
