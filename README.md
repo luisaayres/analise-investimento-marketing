@@ -61,7 +61,7 @@ A análise identificou diferenças importantes no comportamento dos usuários, d
 
 Os resultados indicam que os investimentos em marketing devem ser direcionados principalmente para as origens com melhor relação entre LTV, CAC e ROI, enquanto fontes com baixo retorno devem ser reavaliadas.
 
-📓 Notebook
+## 📓 Notebook
 
 A análise completa pode ser consultada no notebook:
 
